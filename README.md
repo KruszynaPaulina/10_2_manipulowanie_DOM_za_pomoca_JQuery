@@ -4,7 +4,7 @@ https://kruszynapaulina.github.io/10_2_manipulowanie_DOM_za_pomoca_JQuery/.
 
 Zadanie wykonane w ramamch bootcampu Kodilla - "Frontend developer"
 
-Opis: Zadanie ma na celu przećwiczenie w praktyce możliwości maniplowania drzewem DOM za pomocą JQuery. 
+Opis: Zadanie ma na celu przećwiczenie w praktyce możliwości manipulowania drzewem DOM za pomocą JQuery. 
 
 Rozwiązania, tchnologie i narzędzia:
 
